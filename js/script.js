@@ -47,7 +47,7 @@ function displayQuestion(questionObject) {
     // create the options elements
     var optionsCard = $('<div>')
     optionsCard.addClass('card');
-    optionsCard.attr('style', 'width: 18rem;')
+    optionsCard.attr('style', 'width: 18rem');
 
     var optionsUl = $("<ul>");
     optionsUl.addClass("list-group list-group-flush");
