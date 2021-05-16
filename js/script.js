@@ -112,6 +112,7 @@ for (var i = 0; i < questions.length; i++) {
     }
 }
 
+nxtBtn.on("click", displayQuestion);
 
 // Timer that counts down from 60
 function countdown() {

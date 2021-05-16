@@ -2,11 +2,17 @@ body {
     background-color:cornsilk;
 }
 
-.card {
-    border-color: darkblue;
-    background-color: darkblue;
+h1, h2, h3 {
+    text-align: center;
 }
 
-h3 {
-    text-align: center;
+.quiz-container {
+    background-color:lightskyblue;
+    padding-bottom: 10px;
+}
+
+.card {
+    margin-left: 300px;
+    border-color: 2px linen;
+    background-color: magenta;
 }
