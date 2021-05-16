@@ -5,4 +5,4 @@ JavaScript Quiz
 HTML, CSS, JavaScript, jQuery
 
 ###
- 2021 Jennifer Lindsey
+ © 2021 Jennifer Lindsey
